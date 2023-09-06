@@ -11,6 +11,7 @@
 - https://minkara.carview.co.jp/userid/526128/blog/24155736/
 - https://minkara.carview.co.jp/userid/526128/car/457100/1723100/note.aspx
 - https://minkara.carview.co.jp/userid/2505112/car/2325054/4833319/note.aspx
+- https://www.youtube.com/watch?v=v-wpARyVr10&lc=UgwdGmqjWAcQpa-i8BF4AaABAg.9tTvrH7n2949tVJ6_iRfy_
 
 ### 2. Audio
 
