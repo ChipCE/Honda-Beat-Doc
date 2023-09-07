@@ -4,6 +4,7 @@
 ### 0. その他
 
 - https://minkara.carview.co.jp/userid/526128/car/457100/note.aspx
+- https://www.digikey.com/en/articles/protecting-inputs-in-digital-electronics
 
 ### 1. MCU信号関係
 
