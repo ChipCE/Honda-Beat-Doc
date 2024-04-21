@@ -25,7 +25,7 @@ f = RPM / 60 * 3 / 2 = RPS * 3 / 2
             2 revolutions per cycle
 
 or 
-RPM = 40 * f = 40 * (1/T)
+RPM = 40 * f = 40 * (1/T) = 40/T
 </pre>
 
 ## Speed logic
